@@ -1,0 +1,6 @@
+*.tgz
+*.tar.gz
+vendor/bundle
+.bundle
+.DS_Store
+build/*
